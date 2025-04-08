@@ -10,7 +10,7 @@ html{
 body{
     margin:1rem;
     background-color:darksalmon;
-    color:black;
+    color:white;
     font-size:4rem;
     overflow:hidden;
     background: url(./assets/computer.jpg);
@@ -28,5 +28,5 @@ body{
 
 last{
     padding-bottom:2rem;
-	border-bottom: 2px solid rgb(255, 166, 148);
+	border-bottom: 2px solid #ff6f53
 }
