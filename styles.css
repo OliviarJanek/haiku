@@ -26,7 +26,7 @@ body{
 	margin:15% 4rem 0 4rem;
 }
 
-last{
+.last{
     padding-bottom:2rem;
 	border-bottom: 2px solid #ff6f53
 }
